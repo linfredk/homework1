@@ -1,0 +1,2 @@
+What is a remote repository?
+a remote repository is repository hosted on a server
